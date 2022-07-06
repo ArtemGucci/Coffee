@@ -10,7 +10,7 @@ docopt==0.6.2
 fake-useragent==0.1.11
 future==0.18.2
 idna==2.8
-lxml==4.4.1
+lxml==4.9.1
 networkx==2.3
 numpy==1.16.2
 pefile==2019.4.18
